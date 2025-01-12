@@ -6,6 +6,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)
 
 ---
+   ![image](https://github.com/user-attachments/assets/d2560d09-725d-4a98-9c60-16eca2055d19)
 
 ### A powerful and efficient Discord webhook management tool written in Python.
 
